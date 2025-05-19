@@ -1,0 +1,48 @@
+[2025-05-19T12:45:53.116458] Artikeln med ID adr698 finns inte i systemet.
+Exception: ObjectOrienteradDesign.integration.ArtikelFinnsInteException - Artikeln med ID "adr698" kunde inte hittas i lagret.
+ObjectOrienteradDesign.integration.ArtikelFinnsInteException: Artikeln med ID "adr698" kunde inte hittas i lagret.
+	at ObjectOrienteradDesign.integration.ArtikelRegister.hämtaArtikelInformation(ArtikelRegister.java:48)
+	at ObjectOrienteradDesign.model.KassaRegister.artikelIDOchAntal(KassaRegister.java:60)
+	at ObjectOrienteradDesign.kontroller.Kontroller.läggTillArtiklar(Kontroller.java:131)
+	at ObjectOrienteradDesign.kontroller.Kontroller.hanteraKassaFlöde(Kontroller.java:44)
+	at ObjectOrienteradDesign.startup.Main.main(Main.java:20)
+[2025-05-19T14:50:13.172908] Artikeln med ID def567 finns inte i systemet.
+Exception: ObjectOrienteradDesign.integration.ArtikelFinnsInteException - Artikeln med ID "def567" kunde inte hittas i lagret.
+ObjectOrienteradDesign.integration.ArtikelFinnsInteException: Artikeln med ID "def567" kunde inte hittas i lagret.
+	at ObjectOrienteradDesign.integration.ArtikelRegister.hämtaArtikelInformation(ArtikelRegister.java:48)
+	at ObjectOrienteradDesign.model.KassaRegister.artikelIDOchAntal(KassaRegister.java:60)
+	at ObjectOrienteradDesign.kontroller.Kontroller.läggTillArtiklar(Kontroller.java:132)
+	at ObjectOrienteradDesign.kontroller.Kontroller.hanteraKassaFlöde(Kontroller.java:45)
+	at ObjectOrienteradDesign.startup.Main.main(Main.java:21)
+[2025-05-19T14:51:13.492602] Artikeln med ID asff finns inte i systemet.
+Exception: ObjectOrienteradDesign.integration.ArtikelFinnsInteException - Artikeln med ID "asff" kunde inte hittas i lagret.
+ObjectOrienteradDesign.integration.ArtikelFinnsInteException: Artikeln med ID "asff" kunde inte hittas i lagret.
+	at ObjectOrienteradDesign.integration.ArtikelRegister.hämtaArtikelInformation(ArtikelRegister.java:48)
+	at ObjectOrienteradDesign.model.KassaRegister.artikelIDOchAntal(KassaRegister.java:60)
+	at ObjectOrienteradDesign.kontroller.Kontroller.läggTillArtiklar(Kontroller.java:132)
+	at ObjectOrienteradDesign.kontroller.Kontroller.hanteraKassaFlöde(Kontroller.java:45)
+	at ObjectOrienteradDesign.startup.Main.main(Main.java:21)
+[2025-05-19T16:15:14.306662] Artikeln med ID gsf241 finns inte i systemet.
+Exception: integration.ArtikelFinnsInteException - Artikeln med ID "gsf241" kunde inte hittas i lagret.
+integration.ArtikelFinnsInteException: Artikeln med ID "gsf241" kunde inte hittas i lagret.
+	at integration.ArtikelRegister.hämtaArtikelInformation(ArtikelRegister.java:48)
+	at model.KassaRegister.artikelIDOchAntal(KassaRegister.java:60)
+	at kontroller.Kontroller.läggTillArtiklar(Kontroller.java:131)
+	at kontroller.Kontroller.hanteraKassaFlöde(Kontroller.java:44)
+	at startup.Main.main(Main.java:21)
+[2025-05-19T21:35:41.779149] Artikeln med ID ffd567 finns inte i systemet.
+Exception: integration.ArtikelFinnsInteException - Artikeln med ID "ffd567" kunde inte hittas i lagret.
+integration.ArtikelFinnsInteException: Artikeln med ID "ffd567" kunde inte hittas i lagret.
+	at integration.ArtikelRegister.hämtaArtikelInformation(ArtikelRegister.java:48)
+	at model.KassaRegister.artikelIDOchAntal(KassaRegister.java:63)
+	at kontroller.Kontroller.läggTillArtiklar(Kontroller.java:133)
+	at kontroller.Kontroller.hanteraKassaFlöde(Kontroller.java:44)
+	at startup.Main.main(Main.java:21)
+[2025-05-19T21:39:11.320956] Artikeln med ID slasdf45 finns inte i systemet.
+Exception: integration.ArtikelFinnsInteException - Artikeln med ID "slasdf45" kunde inte hittas i lagret.
+integration.ArtikelFinnsInteException: Artikeln med ID "slasdf45" kunde inte hittas i lagret.
+	at integration.ArtikelRegister.hämtaArtikelInformation(ArtikelRegister.java:48)
+	at model.KassaRegister.artikelIDOchAntal(KassaRegister.java:63)
+	at kontroller.Kontroller.läggTillArtiklar(Kontroller.java:133)
+	at kontroller.Kontroller.hanteraKassaFlöde(Kontroller.java:44)
+	at startup.Main.main(Main.java:21)
